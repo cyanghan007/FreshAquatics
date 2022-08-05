@@ -1,6 +1,5 @@
-#Fresh Aquatics
-
-
+# Fresh Aquatics
+## **Routes**
    VERB 		 | 		  PATH 		 |  	 DESCRIPTION
 ------------ | ------------- | -------------------
 GET | /api/vi/ | Home Page Directory of Stock |
